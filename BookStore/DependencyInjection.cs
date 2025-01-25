@@ -1,6 +1,6 @@
-﻿using MovieStore.BL;
+﻿using BookStore.BL;
 
-namespace MovieStore
+namespace BookStore
 {
     public static class DependencyInjection
     {
